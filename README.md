@@ -1,6 +1,6 @@
 Several labs where I worked on xv6 OS.
 
-In first laboratory work (intro) I implemented pngpong and dump methods.
+In first laboratory work (intro) I implemented pingpong and dump methods.
 
 In second laboratory work I worked on optimising xv6 allocator.
 
